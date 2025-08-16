@@ -1,0 +1,17 @@
+# Core Python packages
+numpy==1.24.3
+Pillow==10.0.1
+
+# GUI and interface
+tkinter-tooltip==2.0.0
+
+# Standard library imports (no version needed)
+# sqlite3 - built into Python
+# datetime - built into Python
+# os - built into Python
+# sys - built into Python
+# threading - built into Python
+# time - built into Python
+# csv - built into Python
+# shutil - built into Python
+
